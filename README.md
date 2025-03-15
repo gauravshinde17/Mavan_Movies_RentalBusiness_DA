@@ -192,3 +192,11 @@
 
 ![](Image[Output]/Union.png)
 
+28 Which rating is most prevalant in each store?
+
+
+29 CATEGORIZE MOVIES AS PER LENGTH
+
+![](Image[Output]/Bucket.png)
+
+30 
