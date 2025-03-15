@@ -1,25 +1,26 @@
 # Mavan_Movies_RentalBusiness_DA
-#### Data analysis of movies CD/DVD rental (transactions) and inventory
-## Maven Movies Data Analysis: Enhancing Insights for a Rental Business
 
-## Project Overview:
-#### This project analyzes a movie rental business's database to provide actionable insights for improving operations, marketing strategies, and inventory management. The dataset is hosted in the MAVENMOVIES database, and SQL was extensively used for exploratory data analysis (EDA), schema understanding, and answering business-critical ad-hoc queries.
+### Maven Movies Data Analysis: Enhancing Insights for a Rental Business
 
-## Project Objectives:
-### Customer Insights:
-#### Identify customer details (names, emails) for targeted marketing campaigns. Analyze customer rental patterns to improve customer engagement.
+## 📌 PROJECT OVERVIEW
 
-### Movie Inventory Analysis:
-#### Explore the rental inventory and classify movies based on rental rates and availability. Provide recommendations for expanding the movie collection based on popularity and rental rates. Revenue Optimization:
+This project analyzes a movie rental business's database to provide actionable insights for improving operations, marketing strategies, and inventory management. The dataset is hosted in the MAVENMOVIES database, and SQL was extensively used for exploratory data analysis (EDA), schema understanding, and answering business-critical ad-hoc queries.
 
-#### Analyze rental rates to identify trends and the profitability of various pricing categories. Determine the most rented movie categories and ratings to maximize revenue.
+## 🎯 PROJECT OBJECTIVE
+### 1️⃣ Customer Insights:
+- Identify customer details (names, emails) for targeted marketing campaigns. Analyze customer rental patterns to improve customer engagement.
 
-### Operational Efficiency:
-#### Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
+### 2️⃣ Movie Inventory Analysis:
+- Explore the rental inventory and classify movies based on rental rates and availability. Provide recommendations for expanding the movie collection based on popularity and rental rates. Revenue Optimization:
+
+- Analyze rental rates to identify trends and the profitability of various pricing categories. Determine the most rented movie categories and ratings to maximize revenue.
+
+### 3️⃣ Operational Efficiency:
+- Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
 
 # Tools & Library Used
-<img src="Image[Output]/MYSQL.png" alt="Image[Output]/MYSQL.png" width="200"/> &nbsp;
-![](![](Image[Output]/Email.png))
+![MYSQL_LOGO](Image[Output]/mysql_img.png)
+
 
 # Project Result
 
