@@ -168,7 +168,7 @@ This project analyzes a movie rental business's database to provide actionable i
 
 ![](Image[Output]/Union.png)
 
-28. Which rating is most prevalant in each store?
+28. "Which rating is most prevalant in each store?"
 
 
 ![](Image[Output]/Prevalent_Rating.png)
