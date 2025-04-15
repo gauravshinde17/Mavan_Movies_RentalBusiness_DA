@@ -1,5 +1,5 @@
 # Mavan_Movies_RentalBusiness_DA
-![](blockbuster-video.jpg)
+![](Movie_Rental_Store.png)
 
 ### Maven Movies Data Analysis: Enhancing Insights for a Rental Business
 
